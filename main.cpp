@@ -85,7 +85,7 @@ int main() {
 
     bool stillPlaying = true;
 
-    cout << "Selamat datang! Untuk keluar dari aplikasi, silahkan ketik \"KELUAR\"." << endl;
+    cout << "Selamat datang! Untuk keluar dari aplikasi, silakan ketik \"KELUAR\"." << endl;
     int qStyle, qNumber;
     qStyle = rand() % 2;
     qNumber = rand() % (sizeof(baku) / sizeof(baku[0]));
